@@ -489,6 +489,8 @@ button {
 
 .card__avatar--vthD_ {
   margin-bottom: 16px;
+  width: 124px;
+  height: 124px;
   border-radius: 124px;
 }
 
